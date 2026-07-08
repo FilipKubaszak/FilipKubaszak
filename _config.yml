@@ -246,6 +246,7 @@ defaults:
   - scope:
       path: ""
       type: posts
+      classes: wide
     values:
       layout: single
       author_profile: true
@@ -258,6 +259,7 @@ defaults:
   - scope:
       path: ""
       type: pages
+      classes: wide
     values:
       layout: single
       author_profile: true
