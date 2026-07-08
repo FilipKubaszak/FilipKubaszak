@@ -5,8 +5,15 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-Hello, My name is Filip Kubaszak, my friends call me Pip. I'm an aspiring CAD Technician with experience in Autocad, Solidworks and Fusion 360. I've been working with Solidworks for the past year creating assemblies and technical drawings, I've also been using KiCad to create PCBs for manufacturing. 
+Established in 2025 in Krakow, Poland. Offering Mechanical and Electrical engineering services.
 
-My experience is hardware related but I'm very interested in learning to program especially in Python or lua, the languages seem simple yet very versitle. Python has native support within KiCad and can be used to script in features which would be otherwise diffcult to do manually. I would like to collobarte on some open source projects to develop my skills so if you think your project might interest me feel free to contact me.
+My name is Filip Kubaszak, I have been working the design industry for 6+ years. I decided I wanted to be a part of more then just one project, more than just one company so I made my own were I can offer my services world wide and work for a diverse set of clients.
 
-This site runs best in Chrome, it's easier to have the files embbed and show correctly. If you have any issues drop me an email and I'll see if I can help out.
+I've worked at CERN the large hadron collider as a Power Electrical engineer designing switchboards, sizing cables and developing protection schemes. I worked on some lighting studies while there also for the tunnels and buildings above ground. This was a fantastic opportunity and I learned a great deal from my fellow senior engineers. More recently I have contracted for Vikoma International Ltd designing and dveloping a new remotely piloted skimmer adn different brush/disc modules allowing it to collect a varity of oils. This was a really interesting project to be involved in as the scope of the project was to develope this skimmer for a very difficult to collect oil known as VLSFO. I have also designed electro hydraulic power packs and hydraulic shematics for Vikoma. 
+
+Before both these positions I worked at Vectawave Technology Ltd. updating and desiging microwave & rf amplifier assemblies, encolosures and PCB's. I worked with Soldiworks, AutoCAD and KICAD and I even made prototype PCB's in the in house wetlab. I also have experience with Autodesk Inventor, Catia, EPLAN electric P8, Power Excel and Dialux.
+
+Whatever the project I'm sure I can be the solution you are looking for. I can treat both your electrical and mechanical needs and deliver a production ready product in your preferred format of choice.
+
+
+This site runs best in Chrome, it's easier to have the files embedded and show correctly. If you have any issues drop me an email and I'll see if I can help out.
