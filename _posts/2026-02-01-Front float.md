@@ -8,7 +8,7 @@ excerpt: "Welded sheet Aluminium Float"
 mathjax: "true"
 ---
 
-Fabrication drawings of a welded aluminium float. The sheet metal is laser ut then folded and finally TIG welded together to form a sealed float that can provide buyoancy to oil skimming equipment.
+Fabrication drawings of a welded aluminium float. The sheet metal is laser cut then folded and finally TIG welded together to form a sealed float that can provide buyoancy to oil skimming equipment.
 
 
 
