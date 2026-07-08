@@ -249,6 +249,7 @@ defaults:
       classes: wide
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: # true
@@ -262,4 +263,5 @@ defaults:
       classes: wide
     values:
       layout: single
+      classes: wide
       author_profile: true
