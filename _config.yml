@@ -333,6 +333,8 @@ defaults:
       comments: # true
       share: false
       related: false
+      
+ defaults:     
 # _pages
   - scope:
       path: ""
