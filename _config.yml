@@ -329,10 +329,7 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
-      read_time: true
-      comments: # true
-      share: false
-      related: false
+
       
  defaults:     
 # _pages
@@ -342,4 +339,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
