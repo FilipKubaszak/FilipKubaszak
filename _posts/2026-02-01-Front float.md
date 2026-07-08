@@ -3,8 +3,8 @@ title: "Front Float Welded Assembly"
 date: 2026-02-01
 tags: [CAD, Inventor, Welding]
 header:
-  image: "/project files/Front float/29 FRONT-FLOAT.jpg"
-excerpt: "RF combiner assembly with active cooling"
+  image: "/project files/Front float/29-FRONT-FLOAT.jpg"
+excerpt: "Welded sheet Aluminium Float"
 mathjax: "true"
 ---
 
