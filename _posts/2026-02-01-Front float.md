@@ -1,9 +1,9 @@
 ---
 title: "Front Float Welded Assembly"
 date: 2026-02-01
-tags: [CAD, solidworks, Welding]
+tags: [CAD, Inventor, Welding]
 header:
-  image: "/images/combiner.jpg"
+  image: "/project files/Front float/29 FRONT-FLOAT.jpg"
 excerpt: "RF combiner assembly with active cooling"
 mathjax: "true"
 ---
