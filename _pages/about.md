@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/technical-drawing.jpg"
 ---
 
 Established in 2025 in Krakow, Poland. Offering Mechanical and Electrical engineering services.
