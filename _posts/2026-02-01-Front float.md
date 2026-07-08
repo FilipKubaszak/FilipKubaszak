@@ -26,6 +26,6 @@ Fabrication drawings of a welded aluminium float. The sheet metal is laser cut t
 
 
 <html>
-  <iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=3226689&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='600' height='600'>
+  <iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=3226689&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='6000' height='6000'>
   </iframe>
 </html>
